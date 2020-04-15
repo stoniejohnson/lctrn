@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on lctrn</title>
+		<link>https://lctrn.io/posts/</link>
+		<description>Recent content in Posts on lctrn</description>
+		<generator>Hugo 0.69.0 -- gohugo.io</generator>
+		<language>en</language>
+		<managingEditor>stoniejohnson@icloud.com (Stonie Johnson)</managingEditor>
+		<webMaster>stoniejohnson@icloud.com (Stonie Johnson)</webMaster>
+		<copyright>Stonie Johnson — All rights reserved.</copyright>
+		<lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://lctrn.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Stop Doing Helloworld</title>
+			<link>https://lctrn.io/posts/yeet/</link>
+			<pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+			<author>stoniejohnson@icloud.com (Stonie Johnson)</author>
+			<guid isPermaLink="true">https://lctrn.io/posts/yeet/</guid>
+			<description>&lt;p&gt;Everyone knows helloworld.whatever. For any language, it&amp;rsquo;s your first test just to make sure you got everything set up right.&lt;/p&gt;
+&lt;p&gt;But for me, I just do yeet.whatever.&lt;/p&gt;
+</description>
+		</item>
+	</channel>
+</rss>

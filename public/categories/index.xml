@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Categories on lctrn</title>
+		<link>https://lctrn.io/categories/</link>
+		<description>Recent content in Categories on lctrn</description>
+		<generator>Hugo 0.69.0 -- gohugo.io</generator>
+		<language>en</language>
+		<managingEditor>stoniejohnson@icloud.com (Stonie Johnson)</managingEditor>
+		<webMaster>stoniejohnson@icloud.com (Stonie Johnson)</webMaster>
+		<copyright>Stonie Johnson — All rights reserved.</copyright>
+		<lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://lctrn.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>
