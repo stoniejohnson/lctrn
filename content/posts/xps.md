@@ -20,7 +20,7 @@ And what is truly amazing is that Catalina works relatively well with minimal ti
 
 https://github.com/the-darkvoid/XPS9360-macOS
 
-That's where you can get the kernel extensions for Catalina and a recipe for undervolting worked for me (its a little sketch so please do your research). You can also find a readme that only makes sense if you've already done it.
+That's where you can get the kernel extensions for Catalina and a recipe for undervolting that worked for me (its a little sketch so please do your research). You can also find a readme that only makes sense if you've already done it.
 
 Once you have your bib on and are ready to be spoon fed, here is the classic step by step low budget youtube tutorial for the wrong operating system:
 
