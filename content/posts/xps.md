@@ -16,15 +16,11 @@ This Macbook Pro has existed since 2016, in the form of the [Dell XPS 9360](http
 
 ![alt text](/posts/img/test.png)
 
-And what is truly amazing is that Catalina works relatively well with minimal tinkering. Like most problems worth solving, someone has already solved it for you online so you don't really have to think too hard (gross). Instead just follow vague and incomplete instructions. Hop on over to this github:
-
-https://github.com/the-darkvoid/XPS9360-macOS
+And what is truly amazing is that Catalina works relatively well with minimal tinkering. Like most problems worth solving, someone has already solved it for you online so you don't really have to think too hard (gross). Instead just follow vague and incomplete instructions. Hop on over to this [github](https://github.com/the-darkvoid/XPS9360-macOS).
 
 That's where you can get the kernel extensions for Catalina and a recipe for undervolting that worked for me (its a little sketch so please do your research). You can also find a readme that only makes sense if you've already done it.
 
-Once you have your bib on and are ready to be spoon fed, here is the classic step by step low budget youtube tutorial for the wrong operating system:
-
-https://www.youtube.com/watch?v=qV3OSPREXQY
+Once you have your bib on and are ready to be spoon fed, [here](https://www.youtube.com/watch?v=qV3OSPREXQY) is the classic step by step low budget youtube tutorial for the wrong operating system.
 
 When you run into an issue, just keep trying keywords on google until you figure it out (just like programming).
 
