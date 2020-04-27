@@ -14,7 +14,9 @@ Imagine a 13 inch Macbook Pro. All black. A 4k Touchscreen Display. A bezel meas
 
 This Macbook Pro has existed since 2016, in the form of the [Dell XPS 9360](https://www.amazon.com/Dell-XPS-9360-Ultrabook-Generation/dp/B077NRGBW1): 
 
-![alt text](/posts/img/test.png)
+
+<center><img src="/posts/img/test.png" alt="Paris" > </center>
+
 
 And what is truly amazing is that Catalina works relatively well with minimal tinkering. Like most problems worth solving, someone has already solved it for you online so you don't really have to think too hard (gross). Instead just follow vague and incomplete instructions. Hop on over to this [github](https://github.com/the-darkvoid/XPS9360-macOS).
 
