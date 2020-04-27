@@ -12,7 +12,7 @@ languageCode = "en"
 defaultContentLanguage = "en-us"
 
 # Will appear below the footer links with a © sign and the current year
-copyright = "Stonie Johnson — All rights reserved."
+copyright = "some dude — All rights reserved."
 
 [markup]
     [markup.goldmark]
@@ -147,15 +147,3 @@ paginatePath = "page"
         title = "terrible code"
         url = "https://github.com/stoniejohnson"
         weight = 1
-
-    [[menu.footer]]
-        name = "Slick"
-        title = "Theme page on gohugo.io"
-        url = "https://themes.gohugo.io/slick"
-        weight = 2
-
-    [[menu.footer]]
-        name = "Toor"
-        title = "Some website, using this theme"
-        url = "https://www.toor.su"
-        weight = 3
